@@ -43,7 +43,7 @@ To build a basic voice assistant application that responds to voice commands lik
     ```
 
 ## 🎥 Demo Video
-[Add your YouTube or LinkedIn demo video link here]
+[https://www.linkedin.com/posts/hana-saeed-33867a296_im-excited-to-share-that-ive-successfully-activity-7334454679445143552-yTFp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEelZFwBRZJ0LZL_tAt7l-lZkd0Q2KvQebk]
 
 ## ✅ Outcome
 The voice assistant successfully responds to basic voice commands, providing useful information and entertainment, all through a simple user interface.
